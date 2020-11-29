@@ -41,7 +41,7 @@ API文档请移步 [WIKI](https://github.com/didi/DRouter/wiki)
 
 ## QQ交流群
 
-<img src="https://czp.s3.didiyunapi.com/image/drouter/qq_group.png" width="200px" align="center" alt="DRouter官方交流群"/>
+![image](https://github.com/didi/DRouter/blob/master/img/qq_group.png)
 
 ## License
 
